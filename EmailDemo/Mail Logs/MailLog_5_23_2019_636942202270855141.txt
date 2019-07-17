@@ -1,0 +1,5 @@
+Error occured at 05/23/2019 2:57 PM
+****************************************************************** 
+StackTrace:    at EmailDemo.Controllers.HomeController.Index(Message model, List`1 files) in C:\Users\Dhiren\Desktop\Source Codes\EmailDemo\EmailDemo\Controllers\HomeController.cs:line 31 
+ErrorMessage: Object reference not set to an instance of an object. 
+
